@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gif动画"
+title: "The new features of OSX 10.11 and Xcode 7"
 date: 2015-11-11 21:00:00
 comments: true
 --- 
