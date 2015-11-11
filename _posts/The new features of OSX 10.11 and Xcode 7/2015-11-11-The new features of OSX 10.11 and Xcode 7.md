@@ -1,4 +1,11 @@
----layout: posttitle: "The new features of OSX 10.11 and Xcode 7"date: 2015-11-11 21:00:00comments: true--- **The new features of OSX 10.11 and Xcode 7**============
+---
+layout: post
+title: "Gif动画"
+date: 2015-11-11 21:00:00
+comments: true
+--- 
+The new features of OSX 10.11 and Xcode 7
+============
 **New features**
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;•	Split View
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;用户只要按下F3就会看到全新的任务管理界面，用户只需要将两个应用拖进同一个桌面即可以实现Split View功能。Split View功能的意义并不是同时查看两个应用，而是在于将两个应用摆在一起去提高工作效率，理想使用场景是一边通过网页查资料，一边写文档。同时，用户可以自行调整两个应用分屏的比例，系统会自动记忆下来。同时，用户只需轻扫一下，就能回到桌面，轻松切换到之前进行的其它事情上，大大提高了使用效率。
